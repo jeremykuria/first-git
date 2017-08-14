@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jeremykuria/first-git/issues"
   },
-  "homepage": "https://github.com/jeremykuria/first-git#readme"
+  "homepage": "https://github.com/jeremykuria/first-git#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
